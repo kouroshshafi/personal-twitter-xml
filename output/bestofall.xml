@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bestofall</title>
     <description>filter:follows -filter:replies</description>
@@ -8,36 +8,58 @@
     <language>en</language>
   </channel>
   <item>
+    <title>2025-01-21 07:00:50</title>
+    <link>https://twitter.com/CCM_Brett/status/1881461911457497495</link>
+    <content:encoded>What makes crypto so sinister is the fact it is nothing
+
+</content:encoded>
+    <author>Brett (@CCM_Brett)</author>
+    <pubDate>Mon, 20 Jan 2025 22:00:50 GMT</pubDate>
+  </item>
+  <item>
+    <title>2025-01-21 07:00:06</title>
+    <link>https://twitter.com/TheTranscript_/status/1881461727226998807</link>
+    <content:encoded>Q4 24 Earnings Season continues tomorrow:
+
+Before Open: $SCHW $MMM $DHI $KEY $FITB $PLD $UMC $ONB $FOR
+
+After Close: $NFLX $UAL $IBKR $STX $COF $PRGS $ZION $AGYS $HWC $PNFP
+&lt;hr&gt;
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxLeB2bUAA09XC.jpg&quot;&gt;&lt;br&gt;</content:encoded>
+    <author>The Transcript (@TheTranscript_)</author>
+    <pubDate>Mon, 20 Jan 2025 22:00:06 GMT</pubDate>
+  </item>
+  <item>
     <title>2025-01-21 06:56:04</title>
     <link>https://twitter.com/PythiaR/status/1881460711131578748</link>
-    <description>Melania looked so on point today
+    <content:encoded>Melania looked so on point today
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxKhUSbcAArJ26.png&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxKhUSbcAArJ26.png&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Pythia Capital, No Brainer (@PythiaR)</author>
     <pubDate>Mon, 20 Jan 2025 21:56:04 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:53:17</title>
     <link>https://twitter.com/LibertyRPF/status/1881460011148390858</link>
-    <description>Disney films with a global box office over $1bn (not FX adjusted): 🐭🎬
+    <content:encoded>Disney films with a global box office over $1bn (not FX adjusted): 🐭🎬
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxJvnpWUAAVHmZ.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxJvnpWUAAVHmZ.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Liberty 💚🥃 (@LibertyRPF)</author>
     <pubDate>Mon, 20 Jan 2025 21:53:17 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:45:02</title>
     <link>https://twitter.com/TheTranscript_/status/1881457938461770087</link>
-    <description>Druckenmiller on Scott Bessent: &quot;Scott&apos;s extremely capable—big brain, very thoughtful. He&apos;s in the unique position that I don&apos;t think any other Treasury Secretary has been in, having been an active participant in markets. I&apos;m hearing he&apos;s been to 40 countries, and I know he&apos;s
+    <content:encoded>Druckenmiller on Scott Bessent: &quot;Scott&apos;s extremely capable—big brain, very thoughtful. He&apos;s in the unique position that I don&apos;t think any other Treasury Secretary has been in, having been an active participant in markets. I&apos;m hearing he&apos;s been to 40 countries, and I know he&apos;s
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:45:02 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:44:39</title>
     <link>https://twitter.com/BInvestooor/status/1881457839732129801</link>
-    <description>&quot;Caring about everything is a disaster. 
+    <content:encoded>&quot;Caring about everything is a disaster. 
 
 Caring about nothing is also a disaster. 
 
@@ -45,311 +67,293 @@ Nurture the small pocket of things that truly matter to you.&quot;
 
 -@JamesClear
 
-</description>
+</content:encoded>
     <author>BuysideInvestooor (@BInvestooor)</author>
     <pubDate>Mon, 20 Jan 2025 21:44:39 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:44:23</title>
     <link>https://twitter.com/BluthCapital/status/1881457771490771190</link>
-    <description>$LVMH whoopsies.
+    <content:encoded>$LVMH whoopsies.
 &lt;hr&gt;
 &lt;img src=&quot;https://pbs.twimg.com/media/GhxHwixXkAAvJkX.png&quot;&gt;&lt;br&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxHzwkXwAAYjH8.png&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxHzwkXwAAYjH8.png&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Oh Come On! (@BluthCapital)</author>
     <pubDate>Mon, 20 Jan 2025 21:44:23 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:43:12</title>
     <link>https://twitter.com/SenWarren/status/1881457475981107536</link>
-    <description>I just got back from Donald Trump&apos;s inauguration. 
+    <content:encoded>I just got back from Donald Trump&apos;s inauguration. 
 
 If it&apos;s any indication of what Trump&apos;s second term will look like, it&apos;ll be great for his billionaire donors and giant corporations, and pain and costs for everyone else.
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/amplify_video_thumb/1881457308967862272/img/XBtz6XpzPvH9WlUA.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/amplify_video_thumb/1881457308967862272/img/XBtz6XpzPvH9WlUA.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Elizabeth Warren (@SenWarren)</author>
     <pubDate>Mon, 20 Jan 2025 21:43:12 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:42:23</title>
     <link>https://twitter.com/kevinsxu/status/1881457270581846088</link>
-    <description>American (closed)AGI                    Chinese (open)AGI
+    <content:encoded>American (closed)AGI                    Chinese (open)AGI
 &lt;hr&gt;
 &lt;img src=&quot;https://pbs.twimg.com/media/GhxCuypXAAAoGL1.jpg&quot;&gt;&lt;br&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxCuyoW4AM5Axw.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxCuyoW4AM5Axw.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Kevin Xu (@kevinsxu)</author>
     <pubDate>Mon, 20 Jan 2025 21:42:23 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:42:03</title>
     <link>https://twitter.com/TheTranscript_/status/1881457187396153632</link>
-    <description>Druckenmiller: &quot;We are still short Treasuries, but we&apos;re certainly not pressing the size of that position now.&quot;
+    <content:encoded>Druckenmiller: &quot;We are still short Treasuries, but we&apos;re certainly not pressing the size of that position now.&quot;
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:42:03 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:41:27</title>
     <link>https://twitter.com/CCM_Brett/status/1881457036657099081</link>
-    <description>When someone accidentally snaps a photo after I bribed a local CCP official to gift me an automotive plant in Xinjiang
+    <content:encoded>When someone accidentally snaps a photo after I bribed a local CCP official to gift me an automotive plant in Xinjiang
 
-</description>
+</content:encoded>
     <author>Brett (@CCM_Brett)</author>
     <pubDate>Mon, 20 Jan 2025 21:41:27 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:40:12</title>
     <link>https://twitter.com/TheTranscript_/status/1881456718963507219</link>
-    <description>Druckemiller: &quot;In my business, every change creates changes in security prices. Having this kind of radical change from one administration to the other, in addition to what&apos;s going on in the private sector with innovation—then you&apos;ve got deregulation from the government and
+    <content:encoded>Druckemiller: &quot;In my business, every change creates changes in security prices. Having this kind of radical change from one administration to the other, in addition to what&apos;s going on in the private sector with innovation—then you&apos;ve got deregulation from the government and
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:40:12 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:39:07</title>
     <link>https://twitter.com/TheTranscript_/status/1881456445541224935</link>
-    <description>Druckenmiller: &quot;The economy looks very, very strong—at least for the next six months, which is about as far out as one can see with any degree of confidence&quot;
+    <content:encoded>Druckenmiller: &quot;The economy looks very, very strong—at least for the next six months, which is about as far out as one can see with any degree of confidence&quot;
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:39:07 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:36:33</title>
     <link>https://twitter.com/ClarkSquareCap/status/1881455801262653891</link>
-    <description>Gotta get that EWZ/EWW exposure
+    <content:encoded>Gotta get that EWZ/EWW exposure
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxF5drbsAAfk8X.png&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxF5drbsAAfk8X.png&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Clark Square Capital (@ClarkSquareCap)</author>
     <pubDate>Mon, 20 Jan 2025 21:36:33 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:32:50</title>
     <link>https://twitter.com/sc_cath/status/1881454865735614720</link>
-    <description>
+    <content:encoded>
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/tweet_video_thumb/GhxFOeAXgAAa_xc.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/tweet_video_thumb/GhxFOeAXgAAa_xc.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Sylvain Catherine (@sc_cath)</author>
     <pubDate>Mon, 20 Jan 2025 21:32:50 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:32:14</title>
     <link>https://twitter.com/BluthCapital/status/1881454717047582769</link>
-    <description>Outgoing POTUS pardoning ppl he insists didn&apos;t commit any &quot;Offences against the United States&quot; is very legally suspect.
+    <content:encoded>Outgoing POTUS pardoning ppl he insists didn&apos;t commit any &quot;Offences against the United States&quot; is very legally suspect.
 &quot;They did nothing wrong, but are pardoned for it.&quot;
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxEkNzXoAA-kE1.png&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxEkNzXoAA-kE1.png&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Oh Come On! (@BluthCapital)</author>
     <pubDate>Mon, 20 Jan 2025 21:32:14 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:31:49</title>
     <link>https://twitter.com/YellowLabLife/status/1881454612055568431</link>
-    <description>Bezos fiancé going lingerie and blazer (while everyone the koala was watching with was trying to figure out who the hooker next to Vivek was until we realized that’s the new homeland security) is actually a brilliant defiant signal of “I’ve been summoned to the sun king court in
+    <content:encoded>Bezos fiancé going lingerie and blazer (while everyone the koala was watching with was trying to figure out who the hooker next to Vivek was until we realized that’s the new homeland security) is actually a brilliant defiant signal of “I’ve been summoned to the sun king court in
 
-</description>
+</content:encoded>
     <author>Yellow Lab Life Capital (@YellowLabLife)</author>
     <pubDate>Mon, 20 Jan 2025 21:31:49 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:31:31</title>
     <link>https://twitter.com/MattJMcClintock/status/1881454535505588317</link>
-    <description>Feels mostly union boss thinks can strong arm new CEO at $COST. Used to chat with unions regularly when I covered $WMT and they were always reasonable. This move looks opposite. Nothing about Costco is &quot;greedy&quot; - sadly this likely just hurts consumer.
+    <content:encoded>Feels mostly union boss thinks can strong arm new CEO at $COST. Used to chat with unions regularly when I covered $WMT and they were always reasonable. This move looks opposite. Nothing about Costco is &quot;greedy&quot; - sadly this likely just hurts consumer.
 
 https://t.co/jIQC81OF3x
 
-</description>
+</content:encoded>
     <author>Matt McClintock (@MattJMcClintock)</author>
     <pubDate>Mon, 20 Jan 2025 21:31:31 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:31:30</title>
     <link>https://twitter.com/TheTranscript_/status/1881454532053586383</link>
-    <description>Druckenmiller: &quot;We do a lot of talking to CEOs and companies on the ground. And I’d say CEOs are somewhere between relieved and giddy. So we’re a believer in animal spirits&quot;
+    <content:encoded>Druckenmiller: &quot;We do a lot of talking to CEOs and companies on the ground. And I’d say CEOs are somewhere between relieved and giddy. So we’re a believer in animal spirits&quot;
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:31:30 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:30:00</title>
     <link>https://twitter.com/TSOH_Investing/status/1881454153983205702</link>
-    <description>Warren Buffett, 1996 Berkshire meeting: &quot;Phil has done awfully well by finding businesses he likes, sticking with them, and not worrying too much about what they do day to day. There’s a WSJ article coming out about Phil [link]; I advise you to read it.&quot;
+    <content:encoded>Warren Buffett, 1996 Berkshire meeting: &quot;Phil has done awfully well by finding businesses he likes, sticking with them, and not worrying too much about what they do day to day. There’s a WSJ article coming out about Phil [link]; I advise you to read it.&quot;
 
 https://t.co/A7hxTOYjMJ
 
-</description>
+</content:encoded>
     <author>Alex Morris (TSOH Investment Research) (@TSOH_Investing)</author>
     <pubDate>Mon, 20 Jan 2025 21:30:00 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:28:38</title>
     <link>https://twitter.com/TheTranscript_/status/1881453810750722350</link>
-    <description>Druckenmiller on tariffs: &quot;To me, tariffs are simply a consumption tax that foreigners pay for some of it. Now the risk is retaliation, but as long as we stay in the 10% range, ...I think the risks are overblown relative to the rewards, the rewards on high.&quot;
+    <content:encoded>Druckenmiller on tariffs: &quot;To me, tariffs are simply a consumption tax that foreigners pay for some of it. Now the risk is retaliation, but as long as we stay in the 10% range, ...I think the risks are overblown relative to the rewards, the rewards on high.&quot;
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:28:38 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:27:33</title>
     <link>https://twitter.com/TheTranscript_/status/1881453536845656353</link>
-    <description>Druckenmiller: &quot;I&apos;ve been doing this for 49 years, and we&apos;re probably going from the most anti-business administration to the opposite. We do a lot of talking to CEOs and companies on the ground. And I&apos;d say CEOs are somewhere between relieved and giddy. So we&apos;re a believer in
+    <content:encoded>Druckenmiller: &quot;I&apos;ve been doing this for 49 years, and we&apos;re probably going from the most anti-business administration to the opposite. We do a lot of talking to CEOs and companies on the ground. And I&apos;d say CEOs are somewhere between relieved and giddy. So we&apos;re a believer in
 
-</description>
+</content:encoded>
     <author>The Transcript (@TheTranscript_)</author>
     <pubDate>Mon, 20 Jan 2025 21:27:33 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:24:52</title>
     <link>https://twitter.com/BInvestooor/status/1881452862078951461</link>
-    <description>WELCOME TO THE GOLDEN AGE OF GRIFT
+    <content:encoded>WELCOME TO THE GOLDEN AGE OF GRIFT
 
-</description>
+</content:encoded>
     <author>BuysideInvestooor (@BInvestooor)</author>
     <pubDate>Mon, 20 Jan 2025 21:24:52 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:24:04</title>
     <link>https://twitter.com/Larryjamieson_/status/1881452660450283579</link>
-    <description>GM
+    <content:encoded>GM
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxDN__aoAEGNl6.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxDN__aoAEGNl6.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Buyback Capital (@Larryjamieson_)</author>
     <pubDate>Mon, 20 Jan 2025 21:24:04 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:20:32</title>
     <link>https://twitter.com/lhamtil/status/1881451769697608176</link>
-    <description>This was great.  My buddy @AboveAvgOdds crushed it with his encyclopedic knowledge of Nintendo
+    <content:encoded>This was great.  My buddy @AboveAvgOdds crushed it with his encyclopedic knowledge of Nintendo
 
-</description>
+</content:encoded>
     <author>Lawrence Hamtil (@lhamtil)</author>
     <pubDate>Mon, 20 Jan 2025 21:20:32 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:18:46</title>
     <link>https://twitter.com/sidecarcap/status/1881451328205144101</link>
-    <description>Thomas Phelps in 1972, formula still works.
+    <content:encoded>Thomas Phelps in 1972, formula still works.
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/GhxCAp6XQAAoKAk.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/GhxCAp6XQAAoKAk.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Sidecar Investor (@sidecarcap)</author>
     <pubDate>Mon, 20 Jan 2025 21:18:46 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:07:55</title>
     <link>https://twitter.com/tylertringas/status/1881448594965922091</link>
-    <description>😮‍💨
+    <content:encoded>😮‍💨
 
-</description>
+</content:encoded>
     <author>Tyler Tringas (@tylertringas)</author>
     <pubDate>Mon, 20 Jan 2025 21:07:55 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:07:46</title>
     <link>https://twitter.com/ChrisPavese/status/1881448558294896723</link>
-    <description>Snow day in the mountains. Only one problem!! Noooooo!!
+    <content:encoded>Snow day in the mountains. Only one problem!! Noooooo!!
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/Ghw_e9iXMAAMSV1.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/Ghw_e9iXMAAMSV1.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Chris Pavese (@ChrisPavese)</author>
     <pubDate>Mon, 20 Jan 2025 21:07:46 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:06:37</title>
     <link>https://twitter.com/sc_cath/status/1881448266723631361</link>
-    <description>Disons que le rendement de marché du capital est de x pourcents. Dans ce cas, l&apos;actif vaut P = CF/x où CF est le cash flow de l&apos;actif. 
+    <content:encoded>Disons que le rendement de marché du capital est de x pourcents. Dans ce cas, l&apos;actif vaut P = CF/x où CF est le cash flow de l&apos;actif. 
 
 Après l&apos;instauration de la taxe, le cash flow net de taxe devient CF-10%*P&apos;, avec P&apos; le nouveau prix de marché de l&apos;actif.
 
 Pour maintenir le
 
-</description>
+</content:encoded>
     <author>Sylvain Catherine (@sc_cath)</author>
     <pubDate>Mon, 20 Jan 2025 21:06:37 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 06:02:46</title>
     <link>https://twitter.com/J2dubyas/status/1881447297638350991</link>
-    <description>Let&apos;s go America!  🇺🇸
+    <content:encoded>Let&apos;s go America!  🇺🇸
 
 Her All‐American Girl came out just before my first daughter was born. That &quot;little pink blanket&quot; gets me every time... 🥹
 
-</description>
+</content:encoded>
     <author>Jon Williams (@J2dubyas)</author>
     <pubDate>Mon, 20 Jan 2025 21:02:46 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:59:11</title>
     <link>https://twitter.com/JimmyDaGreek76/status/1881446398388048065</link>
-    <description>I can see the green lines
+    <content:encoded>I can see the green lines
 
-</description>
+</content:encoded>
     <author>Trembling With Greed (@JimmyDaGreek76)</author>
     <pubDate>Mon, 20 Jan 2025 20:59:11 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:57:37</title>
     <link>https://twitter.com/PythiaR/status/1881446003229991052</link>
-    <description>Huh I did Nazi that hand gesture coming
+    <content:encoded>Huh I did Nazi that hand gesture coming
 
-</description>
+</content:encoded>
     <author>Pythia Capital, No Brainer (@PythiaR)</author>
     <pubDate>Mon, 20 Jan 2025 20:57:37 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:49:51</title>
     <link>https://twitter.com/Crussian17/status/1881444048013279654</link>
-    <description>Nothing to see here just a casual nazi salute
+    <content:encoded>Nothing to see here just a casual nazi salute
 
-</description>
+</content:encoded>
     <author>QuantumRoboticPalantirian Capital🇺🇦 (@Crussian17)</author>
     <pubDate>Mon, 20 Jan 2025 20:49:51 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:46:41</title>
     <link>https://twitter.com/ValueSituations/status/1881443253217853924</link>
-    <description>Value Sits Model Portfolio name $TE.FP closed at ATH today, now top performer since inception in the Portfolio, +156% /  IRR: 51.0% / MOIC: 2.66x
+    <content:encoded>Value Sits Model Portfolio name $TE.FP closed at ATH today, now top performer since inception in the Portfolio, +156% /  IRR: 51.0% / MOIC: 2.66x
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/Ghw6UveX0AAUfU5.png&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/Ghw6UveX0AAUfU5.png&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Conor Maguire | Value Situations (@ValueSituations)</author>
     <pubDate>Mon, 20 Jan 2025 20:46:41 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:42:34</title>
     <link>https://twitter.com/BInvestooor/status/1881442217988088257</link>
-    <description>https://t.co/1A1CQSL0WK
+    <content:encoded>https://t.co/1A1CQSL0WK
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/media/Ghw5uU-WEAA9VD1.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/media/Ghw5uU-WEAA9VD1.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>BuysideInvestooor (@BInvestooor)</author>
     <pubDate>Mon, 20 Jan 2025 20:42:34 GMT</pubDate>
   </item>
   <item>
     <title>2025-01-21 05:42:29</title>
     <link>https://twitter.com/kevinsxu/status/1881442196236493222</link>
-    <description>being (co)president doesn&apos;t change who you are, it amplifies who you are
+    <content:encoded>being (co)president doesn&apos;t change who you are, it amplifies who you are
 &lt;hr&gt;
-&lt;img src=&quot;https://pbs.twimg.com/amplify_video_thumb/1881431470251909120/img/6b9jNqn2U__DVf46.jpg&quot;&gt;&lt;br&gt;</description>
+&lt;img src=&quot;https://pbs.twimg.com/amplify_video_thumb/1881431470251909120/img/6b9jNqn2U__DVf46.jpg&quot;&gt;&lt;br&gt;</content:encoded>
     <author>Kevin Xu (@kevinsxu)</author>
     <pubDate>Mon, 20 Jan 2025 20:42:29 GMT</pubDate>
-  </item>
-  <item>
-    <title>2025-01-21 05:40:08</title>
-    <link>https://twitter.com/BushwoodCap/status/1881441603220537730</link>
-    <description>Bears front office and ownership stinks like hell … but credit where due: Good hire.
-
-</description>
-    <author>Carl Spackler (@BushwoodCap)</author>
-    <pubDate>Mon, 20 Jan 2025 20:40:08 GMT</pubDate>
-  </item>
-  <item>
-    <title>2025-01-21 05:39:06</title>
-    <link>https://twitter.com/dalibali2/status/1881441343693902149</link>
-    <description>Pretty much every occasion is more dignified without Elon
-
-</description>
-    <author>dalibali (@dalibali2)</author>
-    <pubDate>Mon, 20 Jan 2025 20:39:06 GMT</pubDate>
   </item>
 </rss>
